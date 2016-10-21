@@ -1,0 +1,9 @@
+{
+    "id" : "EventTests",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "oniatus",
+    "displayName" : "EventTests",
+    "description" : "Module to test the behavior of different event broadcasting settings.",
+    "dependencies" : [],
+    "serverSideOnly" : false
+}
